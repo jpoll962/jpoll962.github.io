@@ -1,6 +1,8 @@
+---
 layout: page
 title: "MATH4610 Directory"
 permalink: /math4610_page/
+---
 
 # MATH4610
 
