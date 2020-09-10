@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MATH4610 Directory"
+theme: hacker
 permalink: /math4610_page/
 ---
 
