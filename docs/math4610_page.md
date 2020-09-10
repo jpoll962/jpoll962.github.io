@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MATH4610 Directory"
-theme: hacker
+theme: jekyll-theme-hacker
 permalink: /math4610_page/
 ---
 
