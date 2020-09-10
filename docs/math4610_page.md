@@ -1,3 +1,7 @@
+layout: page
+title: "MATH4610 Directory"
+permalink: /math4610_page/
+
 # MATH4610
 
 The following links are in regard to my MATH4610 repository. As of right now, this is a private repository, so non-collaborators will not
