@@ -2,7 +2,7 @@
 
 ## Repositories
 * [ECE1400](https://github.com/jpoll962/ECE1400)
-* [MATH4610](https://jpoll962.github.io/math4610)
+* [MATH4610](https://jpoll962.github.io/math4610.md)
 
 ## About
 I am a Computer Engineering and Economics (with a minor in Mathematics) student at Utah State University (USU). I plan to graduate in the Spring of 2023.
