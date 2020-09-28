@@ -50,7 +50,7 @@ If you know of any other amazing resources, don't hesitate to reach out to me at
 ### Computer Science
 - [Hackr.io](https://hackr.io/)
 - [SoloLearn](https://www.sololearn.com/Courses/)
-- [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html) by the E-Book Foundation)
+- [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html) by the E-Book Foundation
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) by Daniel Stefanovic
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) by Joshua Levy
