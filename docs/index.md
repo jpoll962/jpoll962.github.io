@@ -61,7 +61,8 @@ If you know of any other amazing resources I can add (even ones that don't go in
 - [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) by NVIDIA
 
 ### Electronics
-- [Fundamentals of Electric Circuits](http://hafizzaheer.pbworks.com/w/file/fetch/85918240/Fundamentals%20of%20Electric%20Circuits%20(5th%20Ed)(gnv64).pdf) by Charles Alexander and Matthew Sadiku (**Book**) 
+- [Fundamentals of Electric Circuits](http://hafizzaheer.pbworks.com/w/file/fetch/85918240/Fundamentals%20of%20Electric%20Circuits%20(5th%20Ed)(gnv64).pdf) by Charles Alexander and Matthew Sadiku (**Book**)
+- [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [All About Circuits](https://www.allaboutcircuits.com/)
 - [Cal Poly Pomona - ECE 109](https://www.cpp.edu/~elab/index.html)
 - [The Ultimate Electronics Book](https://ultimateelectronicsbook.com/) by Michael F. Robbins
