@@ -8,12 +8,11 @@
 I am a Computer Engineering and Economics (with a minor in Mathematics) student at Utah State University (USU). I plan to graduate in the Spring of 2023.
 This GitHub account contains work I have done in my leisure time and work I completed for classes.
 
-I love to learn all sorts of new things. As long as I'm learning,
-I'm usually happy. The only times I am not is when something just doesn't make sense. To curve that issue, I like to collect as many resourses on topics I learn as
-I possibly can. For that very reason, I collect many of the interesting links I find across the internet. I will hold some of those links below. Many of them will
+Below are some of the many links that I have found throughout my semesters in college.
+Most of them are links that helped me learn different topics. Some of them are links I used to kill time. Many of them will
 be links to more links. It is an endless rabbit hole of resources.
 
-If you know of any other amazing resources, don't hesitate to reach out to me at jpoll962@yahoo.com! Enjoy!
+If you know of any other amazing resources I can add (even ones that don't go in the below categories), don't hesitate to reach out to me at jpoll962@yahoo.com! Enjoy!
 
 ## Resources
 
@@ -84,5 +83,4 @@ These either don't fit in an above category or they are just links I found inter
 - [Quantstart](https://www.quantstart.com/)
 - [SketchUp](https://www.sketchup.com/)
 
-I am not affiliated with any of the links above, but I have not and will not include a link that
-I have not personally used and found helpful.
+I am not affiliated with any of the links above, but I have only included links that I have personally used and found helpful.
