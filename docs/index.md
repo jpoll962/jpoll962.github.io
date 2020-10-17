@@ -9,8 +9,8 @@ I am a Computer Engineering and Economics (with a minor in Mathematics) student 
 This GitHub account contains work I have done in my leisure time and work I completed for classes.
 
 Below are some of the many links that I have found throughout my semesters in college.
-Most of them are links that helped me learn different topics. Some of them are links I used to kill time. Many of them will
-be links to more links. It is an endless rabbit hole of resources.
+Most of them are links that helped me learn different topics or helped me prepare for a career in Investment Banking. Some of them
+are links I used to kill time. Many of them will be links to more links. It is an endless rabbit hole of resources.
 
 If you know of any other amazing resources I can add (even ones that don't go in the below categories), don't hesitate to reach out to me at jpoll962@yahoo.com! Enjoy!
 
@@ -29,6 +29,11 @@ If you know of any other amazing resources I can add (even ones that don't go in
 - [Awesome Websites](https://github.com/StanForever/awesome-websites) by StanForever
 - [How2Shout](https://www.how2shout.com/)
 - [Xahlee](http://xahlee.info/)
+
+### Finance
+- [Vault](https://www.vault.com/)
+- [Morgan Stanley Resource's](https://www.morgansanley.com/people-opportunities/students-graduates/resources/)
+- [Street of Walls Financial Training Courses](http://www.streetofwalls.com/finance-training-courses/)
 
 ### Software
 - [Calibre Library](https://calibre-ebook.com/)
