@@ -31,8 +31,8 @@ If you know of any other amazing resources I can add (even ones that don't go in
 - [Xahlee](http://xahlee.info/)
 
 ### Finance
-- [Vault](https://www.vault.com/)
-- [Morgan Stanley Resource's](https://www.morgansanley.com/people-opportunities/students-graduates/resources/)
+- [Vault - Career Advice & Company Reviews](https://www.vault.com/)
+- [Morgan Stanley's Resource Page](https://www.morgansanley.com/people-opportunities/students-graduates/resources/)
 - [Street of Walls Financial Training Courses](http://www.streetofwalls.com/finance-training-courses/)
 
 ### Software
