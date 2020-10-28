@@ -1,7 +1,7 @@
 # Welcome to my GitHub Home Page!
 
 ## Repositories
-* [ECE1400](https://github.com/jpoll962/ECE1400)
+* [ECE1400](https://github.com/jpoll962/ECE1400) - Coming Soon-ish
 * [MATH4610](https://jpoll962.github.io/math4610.md)
 
 ## About
@@ -31,6 +31,7 @@ If you know of any other amazing resources I can add (even ones that don't go in
 * [No Excuse List](http://noexcuselist.com/)
 * [Awesome Websites](https://github.com/StanForever/awesome-websites) by StanForever
 * [Xahlee](http://xahlee.info/)
+* [Tutorials Point:](https://www.tutorialspoint.com/index.htm) Simply Easy Learning
 
 ### Free Books
 #### Textbooks
@@ -50,6 +51,9 @@ If you know of any other amazing resources I can add (even ones that don't go in
 * [Vault - Career Advice & Company Reviews](https://www.vault.com/)
 * [Morgan Stanley's Resource Page](https://www.morgansanley.com/people-opportunities/students-graduates/resources/)
 * [Street of Walls Financial Training Courses](http://www.streetofwalls.com/finance-training-courses/)
+* [Cryptonews](https://www.cryptonews.com/)
+* [Coinbase](https://www.coinbase.com/)
+* [CryptoCompare](https://www.cryptocompare.com/)
 
 ### Software
 * [Calibre Library](https://calibre-ebook.com/)
@@ -63,12 +67,12 @@ If you know of any other amazing resources I can add (even ones that don't go in
 ### Mathematics
 * [Gilbert Strang Home Page](http://www-math.mit.edu/~gs/) by Gilbert Strang at MIT
 * [Paul's Notes](https://tutorial.math.lamar.edu/) by Paul Dawkins at Lamar University
-* [Joe Koebbe](https://jvkoebbe.github.io/) by Joe Koebbe at Utah State University
-  - Contains resources on ODEs, Computational Mathematics, and more!
+* [JVKoebbe Github Page](https://jvkoebbe.github.io/) by Joe Koebbe at Utah State University
 * [Norse Mathology](https://www.norsemathology.org/wiki/index.php?title=Main_Page)
 * [Mathematical Resource Page](http://wwwf.imperial.ac.uk/metric/metric_public/index.html) by Imperial College London
 
 ### Computer Science
+* [Virtual Box](https://www.virtualbox.org/) by Oracle
 * [Hackr.io](https://hackr.io/)
 * [SoloLearn](https://www.sololearn.com/Courses/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html) by the E-Book Foundation
@@ -83,6 +87,16 @@ If you know of any other amazing resources I can add (even ones that don't go in
 * [Hack This Site!](https://www.hackthissite.org/pages/index/index.php)
 * [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) by NVIDIA
 
+### Security
+* [Kali Linux Homepage](https://www.kali.org/) by Offensive Security
+* [Kali Linux Revealed](https://kali.training/lessons/introduction/)
+* [Shodan](https://www.shodan.io/) - Free upgrade with a university e-mail
+* [The Exploit Database](https://www.exploit-db.com/)
+* [Wonder How To](https://www.wonderhowto.com/)
+* [Exposing the Invisible](https://exposingtheinvisible.org/)
+* [The Hack Today](https://www.thehacktoday.com/)
+* [Kifarunix](https://kifarunix.com/)
+
 ### Electronics
 * [Fundamentals of Electric Circuits](http://hafizzaheer.pbworks.com/w/file/fetch/85918240/Fundamentals%20of%20Electric%20Circuits%20(5th%20Ed)(gnv64).pdf) by Charles Alexander and Matthew Sadiku (**Book**)
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/)
@@ -92,13 +106,12 @@ If you know of any other amazing resources I can add (even ones that don't go in
 * [Eater](https://eater.net/) by Ben Eater
 
 ### Career Development
-* [Kali Linux Revealed](https://kali.training/lessons/introduction/)
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) by Kamran Ahmed
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) by Donne Martin
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) by John Washam
 
 ### Misc.
-These either don't fit in an above category or they are just links I found interesting.  
+These links either don't fit in an above category or they are just links I found interesting.  
 
 * [Text Files](http://textfiles.com/) by Jason Scott
 
@@ -107,4 +120,4 @@ These either don't fit in an above category or they are just links I found inter
 * [Quantstart](https://www.quantstart.com/)
 * [SketchUp](https://www.sketchup.com/)
   
-I am not affiliated with any of the links above, but I have only included links that I have personally used and found helpful.
+These links are for educational purposes only. I am not affiliated with any of the links above.
