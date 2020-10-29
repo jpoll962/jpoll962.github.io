@@ -94,6 +94,7 @@ If you know of any other amazing resources I can add (even ones that don't go in
 * [The Exploit Database](https://www.exploit-db.com/)
 * [Wonder How To](https://www.wonderhowto.com/)
 * [Exposing the Invisible](https://exposingtheinvisible.org/)
+* [National Initiative for Cybersecurity Education](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) by the National Institute of Standards and Technology
 * [The Hack Today](https://www.thehacktoday.com/)
 * [Kifarunix](https://kifarunix.com/)
 
