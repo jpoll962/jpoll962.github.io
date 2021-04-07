@@ -86,6 +86,7 @@ If you know of any other amazing resources I can add (even ones that don't go in
 * [Overleaf LaTeX Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * [Hack This Site!](https://www.hackthissite.org/pages/index/index.php)
 * [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) by NVIDIA
+* [InterviewBit](https://www.interviewbit.com/)
 
 ### Security
 * [Kali Linux Homepage](https://www.kali.org/) by Offensive Security
